@@ -1,0 +1,5 @@
+h1. Verification of issue 2331
+
+Default Rails app set up to verify this issue: "https://github.com/rails/rails/issues/2331":https://github.com/rails/rails/issues/2331
+
+run @rake db:create db:migrate test:units@

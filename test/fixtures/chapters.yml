@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nr_of_pages: 1
+  book_id: 1
+
+two:
+  nr_of_pages: 1
+  book_id: 1
